@@ -1,11 +1,20 @@
-Dùng multiltask cho các led Blinkled độc lập:
--blinkled led0 1-s
--blinkled led1 2-s
--blinkled led2 4-s
--blinkled led3 8-s
--blinkled led4 16-s
--blinkled led5 32-s
--blinkled led6 64-s
--blinkled led7 128-s
-=>Tạo ra mạch sẻ giống như đang đếm lên
-https://drive.google.com/file/d/1ks6M_Fa3fIBLmpLrtqvQnIVa_eGW5i_9/view?usp=sharing
+## Python for Beginners
+python for beginners' course 
+
+### What to expect from this course
+This course is a free course that would improve you knowledge on
+  basic python to intermediate programming skills
+  using Visual Studio Code
+  Building interractive programs
+  basic python to intermediate programming skills
+  using Visual Studio Code
+  Building interractive programs
+  basic python to intermediate programming skills
+  using Visual Studio Code
+  Building interractive programs
+### Materials you need 
+You can follow along using a mobile device or tablet, but a laptop or desktop is preferrable
+### Software
+I will be using visual studio code but other editing programs (IDE's) should be excellent. 
+You will find all folders and code associated with this class. 
+you can also access the playlist here: 
