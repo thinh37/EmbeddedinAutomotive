@@ -1,6 +1,5 @@
-
 ## 
-T Dùng Multiltask cho các led blinkled độc lập
+Dùng Multiltask cho các led blinkled độc lập
   blinkled led0 1s
   blinkled led1 2s
   blinkled led2 4s
@@ -11,4 +10,3 @@ T Dùng Multiltask cho các led blinkled độc lập
   blinkled led7 128s
   u=>Mạch sẽ giống như đang dược đếm lên
   https://drive.google.com/file/d/1ks6M_Fa3fIBLmpLrtqvQnIVa_eGW5i_9/view?usp=sharing
-  
