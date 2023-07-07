@@ -43,7 +43,7 @@ void SPI_init(void)
 		
 		SPI_Cmd(SPI1, ENABLE);
 }
-void SPI1_TransmitData(uint8_t data)
+void SPI_TransmitData(uint8_t data)
 {
     SPI_I2S_SendData(SPI1, data); 
     while (SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_BSY) == SET);
