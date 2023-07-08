@@ -10,7 +10,7 @@ void Spi_Init(Spi_ConfigType* ConfigPtr)
     ConfigPtr->SPI_CPHA = SPI_CPHA_1Edge; // Data captured on first clock edge
     ConfigPtr->SPI_NSS = SPI_NSS_Soft; // Software slave management
     ConfigPtr->SPI_FirstBit = SPI_FirstBit_MSB; // MSB transmitted first
-    ConfigPtr->SPI_BaudRatePrescaler = SPI_BaudRatePrescaler_2; // 8MHz SPI clock frequency
+    ConfigPtr->SPI_BaudRatePrescaler = SPI_BaudRatePrescaler_2; 
     ConfigPtr->SPI_CRCPolynomial = 7; // CRC polynomial is not used
 }
 
