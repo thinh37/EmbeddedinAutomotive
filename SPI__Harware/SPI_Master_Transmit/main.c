@@ -22,6 +22,7 @@ void SPI1_IRQHandler(void){
   {
 		SPI_TransmitData(sendData);
 		if(sendData == 'z') sendData='a';
+	  	else sendData++;
 		DelayS(1);
 		SPI_I2S_ClearITPendingBit(SPI1,SPI_I2S_IT_TXE);
   }
