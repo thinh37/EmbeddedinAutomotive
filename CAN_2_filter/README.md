@@ -3,4 +3,4 @@
 -  dữ liệu nhận được là dataReceive
 -  pic16f (slave): truyền dữ liệu (z->a)chữ thường
 -  dữ liệu nhận được hiển thị lcd
-- LinkVideo: https://drive.google.com/file/d/13dboOes8USuLQATUKZhrS_-wGq43gz9p/view?usp=sharing
+- LinkVideo: https://drive.google.com/drive/folders/1MGz3Td2q6F6XsWoaGkeIs3RrjgdhtNbG?usp=sharing
